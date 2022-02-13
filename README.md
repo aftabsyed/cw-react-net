@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is written to display all products in a page in a tabular format. The project is using the in-memory database and uses Entity Framework Core to perform various database operations. The user would be able to perform CRUD operations such as Create, Read, Delete and Update. 
+This project is written to display all products on a page in a tabular format. The project is using the in-memory database and uses the Entity Framework Core to perform various database operations. The user would be able to perform CRUD operations such as Create, Read, Update and Delete. 
 
 There is a unit test project in the repo using the xUnit testing framework for .Net which covers the Test cases.
 
